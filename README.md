@@ -1,4 +1,4 @@
-# 31DaysOfPyyhonReloaded
+# 31DaysOfPythonReloaded
 
 
 31 Days of Python Reloaded 🤓
